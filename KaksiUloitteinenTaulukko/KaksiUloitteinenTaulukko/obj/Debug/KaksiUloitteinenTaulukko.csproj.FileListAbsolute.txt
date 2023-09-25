@@ -1,0 +1,7 @@
+C:\Users\arinp\source\repos\KaksiUloitteinenTaulukko\KaksiUloitteinenTaulukko\bin\Debug\KaksiUloitteinenTaulukko.exe.config
+C:\Users\arinp\source\repos\KaksiUloitteinenTaulukko\KaksiUloitteinenTaulukko\bin\Debug\KaksiUloitteinenTaulukko.exe
+C:\Users\arinp\source\repos\KaksiUloitteinenTaulukko\KaksiUloitteinenTaulukko\bin\Debug\KaksiUloitteinenTaulukko.pdb
+C:\Users\arinp\source\repos\KaksiUloitteinenTaulukko\KaksiUloitteinenTaulukko\obj\Debug\KaksiUloitteinenTaulukko.csproj.AssemblyReference.cache
+C:\Users\arinp\source\repos\KaksiUloitteinenTaulukko\KaksiUloitteinenTaulukko\obj\Debug\KaksiUloitteinenTaulukko.csproj.CoreCompileInputs.cache
+C:\Users\arinp\source\repos\KaksiUloitteinenTaulukko\KaksiUloitteinenTaulukko\obj\Debug\KaksiUloitteinenTaulukko.exe
+C:\Users\arinp\source\repos\KaksiUloitteinenTaulukko\KaksiUloitteinenTaulukko\obj\Debug\KaksiUloitteinenTaulukko.pdb
